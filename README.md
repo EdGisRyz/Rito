@@ -6,6 +6,7 @@
 * **Alonso Cruz Yahir Jibsam**
 * **Martinez Lopez Fatima**
 * **Santiago Jimenez Galilea**
+* **Villavicencio Ruiz Eduardo**
 
 **Stack:** Spring Boot, FastAPI (IA), React + Vite, PostgreSQL.
 
